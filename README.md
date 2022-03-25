@@ -14,6 +14,7 @@ of the steps needed for a successful deploy, including an example of the final r
 ([repository](https://github.com/blazor-demo/blazor-demo.github.io) / [live site](https://blazor-demo.github.io/)).
 
 
+
 This project goes one step ahead by:
 
 - providing the full solution from where the pages are built;
